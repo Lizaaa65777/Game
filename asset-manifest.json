@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Poisk/static/css/main.70ffaba6.css",
+    "main.js": "/Poisk/static/js/main.d89278ee.js",
+    "static/media/2bg.jpg": "/Poisk/static/media/2bg.17587418fcb4ad177ade.jpg",
+    "static/media/vami.png": "/Poisk/static/media/vami.afa26665f9a8eaf1377f.png",
+    "static/media/tiki.png": "/Poisk/static/media/tiki.77fafeebcab3b6a27a03.png",
+    "static/media/fa.png": "/Poisk/static/media/fa.46d6e3b83e0036789931.png",
+    "static/media/luka.png": "/Poisk/static/media/luka.2daf9d71b0a10182a2e8.png",
+    "static/media/supercat.png": "/Poisk/static/media/supercat.199920ea6f0b1c0151fa.png",
+    "static/media/plag.png": "/Poisk/static/media/plag.5c46381d436c5b38ead6.png",
+    "static/media/Carapace.png": "/Poisk/static/media/Carapace.aff54d257f147bd3be06.png",
+    "static/media/bragnik.png": "/Poisk/static/media/bragnik.eb3189e3fa7e48253a45.png",
+    "static/media/alaya.png": "/Poisk/static/media/alaya.6ac47393da1cde63c2df.png",
+    "static/media/trix.png": "/Poisk/static/media/trix.9fbfbd5397073c94b400.png",
+    "static/media/hloya.png": "/Poisk/static/media/hloya.f2d38444ffb7bd207425.png",
+    "static/media/barkk.png": "/Poisk/static/media/barkk.8a04d1ff5013072255d1.png",
+    "static/media/k2.png": "/Poisk/static/media/k2.08e62e218557b20325f7.png",
+    "static/media/cull.png": "/Poisk/static/media/cull.48eea888c38d20e7cb43.png",
+    "static/media/ob.png": "/Poisk/static/media/ob.fbb02e40e4ad2b88c6c6.png",
+    "static/media/logo.png": "/Poisk/static/media/logo.141da9864b47209118ca.png",
+    "static/media/ledibag.png": "/Poisk/static/media/ledibag.8386694d0f3912a5bd23.png",
+    "static/media/cvinka.png": "/Poisk/static/media/cvinka.817d93d4e2c10d769e8e.png",
+    "static/media/sass.png": "/Poisk/static/media/sass.5702a373d756c3ee55a3.png",
+    "static/media/pchela.png": "/Poisk/static/media/pchela.d2b0a07730a6559a3c06.png",
+    "index.html": "/Poisk/index.html",
+    "main.70ffaba6.css.map": "/Poisk/static/css/main.70ffaba6.css.map",
+    "main.d89278ee.js.map": "/Poisk/static/js/main.d89278ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70ffaba6.css",
+    "static/js/main.d89278ee.js"
+  ]
+}
